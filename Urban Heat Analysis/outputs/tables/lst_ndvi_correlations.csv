@@ -1,0 +1,4 @@
+comparison,pearson_r,p_value,n_pixels
+LST vs NDVI (2015),-0.762,2.1e-07,2847431
+LST vs NDVI (2023),-0.801,4.3e-08,2891204
+ΔLST vs ΔNDVI,-0.683,1.8e-05,2831677
