@@ -2,7 +2,7 @@
 ## What Disappears: Cataloguing Churn Risk, Content Gaps, and the Half-Life of Streaming Libraries
 
 **Prepared by:** Zari Syed  
-**Date:** June 2026
+**Date:** June 2026     
 **Datasets:** Netflix Titles (Kaggle, ~8,800 titles), Amazon Prime Titles (Kaggle, ~9,700 titles), Disney+ Titles (Kaggle, ~1,450 titles)  
 
 ---
