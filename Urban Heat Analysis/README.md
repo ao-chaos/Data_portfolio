@@ -81,7 +81,7 @@ urban-heat-island-london/
 
 ```bash
 git clone https://github.com/ao-chaos/Data_portfolio.git
-cd urban-heat-analysis
+cd urban heat analysis
 ```
 
 ### 2. Create and activate a virtual environment
