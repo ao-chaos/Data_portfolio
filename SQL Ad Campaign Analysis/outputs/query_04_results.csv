@@ -1,0 +1,16 @@
+channel,rank,campaign_name,client,objective,total_spend,total_conversions,cvr,cpa,volume_rank
+Display,1,Helix Health — Retargeting (Disp) Q1,Helix Health,Retargeting,14010.57,215,0.0065,65.17,2
+Display,2,Helix Health — Brand Awareness (Disp) Q4,Helix Health,Brand Awareness,15681.37,239,0.0063,65.61,1
+Display,3,Orbit Travel — Retargeting (Disp) Q2,Orbit Travel,Retargeting,14895.04,195,0.0058,76.38,3
+Paid Search,1,Redwood Insurance — Conversions (Paid) Q3,Redwood Insurance,Conversions,11526.05,447,0.0434,25.79,10
+Paid Search,2,NovaSpark Retail — Lead Generation (Paid) Q2,NovaSpark Retail,Lead Generation,20511.84,783,0.0429,26.2,3
+Paid Search,3,Crestwood Media — Lead Generation (Paid) Q1,Crestwood Media,Lead Generation,15467.6,621,0.0423,24.91,7
+Paid Social,1,Verdant Foods — App Install (Paid) Q3,Verdant Foods,App Install,31703.43,891,0.0217,35.58,1
+Paid Social,2,Solstice Sports — Brand Awareness (Paid) Q1,Solstice Sports,Brand Awareness,15054.72,412,0.0208,36.54,6
+Paid Social,3,Redwood Insurance — Conversions (Paid) Q4,Redwood Insurance,Conversions,23577.14,597,0.0204,39.49,3
+Programmatic,1,Helix Health — Retargeting (Prog) Q2,Helix Health,Retargeting,12688.16,202,0.0057,62.81,6
+Programmatic,2,NovaSpark Retail — Brand Awareness (Prog) Q1,NovaSpark Retail,Brand Awareness,21687.0,360,0.0054,60.24,1
+Programmatic,3,Solstice Sports — Brand Awareness (Prog) Q1,Solstice Sports,Brand Awareness,10923.48,138,0.0051,79.16,8
+Video,1,Orbit Travel — Brand Awareness (Vide) Q3,Orbit Travel,Brand Awareness,28640.85,574,0.0111,49.9,4
+Video,2,Crestwood Media — Brand Awareness (Vide) Q2,Crestwood Media,Brand Awareness,58084.01,1140,0.0105,50.95,1
+Video,2,Verdant Foods — App Install (Vide) Q4,Verdant Foods,App Install,45769.28,876,0.0105,52.25,3

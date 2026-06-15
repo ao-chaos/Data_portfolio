@@ -1,0 +1,53 @@
+campaign_id,campaign_name,client,channel,objective,budget,total_spend,total_conversions,ctr,cvr,cpa,budget_utilisation_pct,benchmark_cvr,performance_tier
+7,Redwood Insurance — Conversions (Paid) Q3,Redwood Insurance,Paid Search,Conversions,12618.57,11526.05,447,0.0327,0.0434,25.79,91.3,0.045,On Track
+35,NovaSpark Retail — Lead Generation (Paid) Q2,NovaSpark Retail,Paid Search,Lead Generation,22896.99,20511.84,783,0.0334,0.0429,26.2,89.6,0.045,On Track
+1,Crestwood Media — Lead Generation (Paid) Q1,Crestwood Media,Paid Search,Lead Generation,17061.0,15467.600000000004,621,0.0338,0.0423,24.91,90.7,0.045,On Track
+23,Redwood Insurance — Conversions (Paid) Q1,Redwood Insurance,Paid Search,Conversions,30531.9,27825.62000000001,1024,0.0327,0.042,27.17,91.1,0.045,On Track
+30,Solstice Sports — Lead Generation (Paid) Q1,Solstice Sports,Paid Search,Lead Generation,16148.04,15077.449999999999,545,0.0319,0.0417,27.67,93.4,0.045,On Track
+45,Helix Health — Lead Generation (Paid) Q4,Helix Health,Paid Search,Lead Generation,22939.7,20649.74000000001,750,0.0329,0.0416,27.53,90.0,0.045,On Track
+50,Redwood Insurance — Lead Generation (Paid) Q2,Redwood Insurance,Paid Search,Lead Generation,17812.42,16872.219999999998,616,0.0342,0.0414,27.39,94.7,0.045,On Track
+39,Orbit Travel — Lead Generation (Paid) Q3,Orbit Travel,Paid Search,Lead Generation,23037.32,20402.57,777,0.0338,0.0411,26.26,88.6,0.045,On Track
+26,BlueLine Finance — Conversions (Paid) Q3,BlueLine Finance,Paid Search,Conversions,44185.43,40156.42,1506,0.0325,0.0407,26.66,90.9,0.045,On Track
+6,Verdant Foods — Lead Generation (Paid) Q2,Verdant Foods,Paid Search,Lead Generation,11578.51,10184.430000000004,372,0.0328,0.0406,27.38,88.0,0.045,On Track
+34,Verdant Foods — Lead Generation (Paid) Q3,Verdant Foods,Paid Search,Lead Generation,21109.01,19634.699999999993,711,0.034,0.0398,27.62,93.0,0.045,Underperforming
+15,Verdant Foods — App Install (Paid) Q3,Verdant Foods,Paid Social,App Install,31540.49,31703.430000000008,891,0.0101,0.0217,35.58,100.5,0.022,On Track
+24,Solstice Sports — Brand Awareness (Paid) Q1,Solstice Sports,Paid Social,Brand Awareness,14724.68,15054.72,412,0.0106,0.0208,36.54,102.2,0.022,On Track
+3,Redwood Insurance — Conversions (Paid) Q4,Redwood Insurance,Paid Social,Conversions,23060.56,23577.14,597,0.0108,0.0204,39.49,102.2,0.022,On Track
+10,Verdant Foods — Brand Awareness (Paid) Q3,Verdant Foods,Paid Social,Brand Awareness,13339.21,13799.39,368,0.0105,0.0202,37.5,103.4,0.022,On Track
+31,NovaSpark Retail — Brand Awareness (Paid) Q1,NovaSpark Retail,Paid Social,Brand Awareness,30789.06,30769.509999999984,814,0.0098,0.0198,37.8,99.9,0.022,On Track
+9,NovaSpark Retail — Brand Awareness (Paid) Q2,NovaSpark Retail,Paid Social,Brand Awareness,24837.9,23394.239999999998,559,0.0097,0.0196,41.85,94.2,0.022,Underperforming
+27,Redwood Insurance — App Install (Paid) Q3,Redwood Insurance,Paid Social,App Install,9953.81,9816.259999999998,240,0.01,0.0195,40.9,98.6,0.022,Underperforming
+13,NovaSpark Retail — Retargeting (Paid) Q1,NovaSpark Retail,Paid Social,Retargeting,11871.44,11220.090000000004,275,0.0105,0.0192,40.8,94.5,0.022,Underperforming
+28,Crestwood Media — Conversions (Paid) Q3,Crestwood Media,Paid Social,Conversions,16969.77,16710.280000000006,410,0.0101,0.0192,40.76,98.5,0.022,Underperforming
+36,Helix Health — Conversions (Paid) Q1,Helix Health,Paid Social,Conversions,21088.57,20932.61,522,0.01,0.0191,40.1,99.3,0.022,Underperforming
+5,Pinnacle Tech — App Install (Paid) Q2,Pinnacle Tech,Paid Social,App Install,13336.14,13342.310000000003,319,0.0095,0.019,41.83,100.0,0.022,Underperforming
+51,Crestwood Media — Retargeting (Paid) Q4,Crestwood Media,Paid Social,Retargeting,9732.4,10048.47,238,0.0101,0.0185,42.22,103.2,0.022,Underperforming
+37,Aurora Fashion — Retargeting (Paid) Q1,Aurora Fashion,Paid Social,Retargeting,12494.19,12883.830000000002,293,0.0098,0.0176,43.97,103.1,0.022,Underperforming
+32,Aurora Fashion — Retargeting (Paid) Q1,Aurora Fashion,Paid Social,Retargeting,11427.1,11440.870000000003,251,0.0092,0.0174,45.58,100.1,0.022,Underperforming
+42,Crestwood Media — Conversions (Paid) Q1,Crestwood Media,Paid Social,Conversions,11531.03,11449.999999999996,245,0.0098,0.0167,46.73,99.3,0.022,Underperforming
+19,Solstice Sports — App Install (Paid) Q3,Solstice Sports,Paid Social,App Install,6905.83,6857.050000000003,137,0.0096,0.0161,50.05,99.3,0.022,Underperforming
+40,Orbit Travel — Brand Awareness (Vide) Q3,Orbit Travel,Video,Brand Awareness,28948.66,28640.85,574,0.0053,0.0111,49.9,98.9,0.012,On Track
+22,Crestwood Media — Brand Awareness (Vide) Q2,Crestwood Media,Video,Brand Awareness,58594.4,58084.00999999999,1140,0.0056,0.0105,50.95,99.1,0.012,Underperforming
+41,Verdant Foods — App Install (Vide) Q4,Verdant Foods,Video,App Install,44829.58,45769.28,876,0.0046,0.0105,52.25,102.1,0.012,Underperforming
+14,BlueLine Finance — App Install (Vide) Q4,BlueLine Finance,Video,App Install,20549.14,20298.160000000007,367,0.0041,0.0102,55.31,98.8,0.012,Underperforming
+20,Redwood Insurance — App Install (Vide) Q1,Redwood Insurance,Video,App Install,53038.99,54342.33,1033,0.0051,0.01,52.61,102.5,0.012,Underperforming
+11,Helix Health — Retargeting (Disp) Q1,Helix Health,Display,Retargeting,14392.98,14010.569999999998,215,0.0026,0.0065,65.17,97.3,0.008,Underperforming
+16,Helix Health — Brand Awareness (Disp) Q4,Helix Health,Display,Brand Awareness,15664.81,15681.369999999999,239,0.0028,0.0063,65.61,100.1,0.008,Underperforming
+48,Orbit Travel — Retargeting (Disp) Q2,Orbit Travel,Display,Retargeting,14418.73,14895.040000000005,195,0.0026,0.0058,76.38,103.3,0.008,Underperforming
+4,Helix Health — Retargeting (Prog) Q2,Helix Health,Programmatic,Retargeting,13433.39,12688.16,202,0.0026,0.0057,62.81,94.5,0.006,On Track
+49,NovaSpark Retail — Brand Awareness (Disp) Q4,NovaSpark Retail,Display,Brand Awareness,10790.85,10804.220000000001,140,0.0027,0.0056,77.17,100.1,0.008,Underperforming
+44,NovaSpark Retail — Brand Awareness (Prog) Q1,NovaSpark Retail,Programmatic,Brand Awareness,24176.36,21686.999999999996,360,0.0028,0.0054,60.24,89.7,0.006,On Track
+25,Helix Health — Retargeting (Disp) Q4,Helix Health,Display,Retargeting,3984.73,4011.54,53,0.003,0.0053,75.69,100.7,0.008,Underperforming
+2,Solstice Sports — Brand Awareness (Prog) Q1,Solstice Sports,Programmatic,Brand Awareness,12860.36,10923.479999999998,138,0.003,0.0051,79.16,84.9,0.006,Underperforming
+18,BlueLine Finance — Retargeting (Prog) Q1,BlueLine Finance,Programmatic,Retargeting,19871.43,18403.879999999997,253,0.0028,0.0048,72.74,92.6,0.006,Underperforming
+38,NovaSpark Retail — Brand Awareness (Prog) Q4,NovaSpark Retail,Programmatic,Brand Awareness,17695.04,15963.720000000001,223,0.0029,0.0047,71.59,90.2,0.006,Underperforming
+52,Redwood Insurance — Brand Awareness (Prog) Q1,Redwood Insurance,Programmatic,Brand Awareness,10286.95,9485.41,130,0.0026,0.0047,72.96,92.2,0.006,Underperforming
+8,Solstice Sports — Retargeting (Prog) Q3,Solstice Sports,Programmatic,Retargeting,22594.49,20424.979999999992,253,0.0029,0.0044,80.73,90.4,0.006,Underperforming
+33,Helix Health — Retargeting (Prog) Q3,Helix Health,Programmatic,Retargeting,20477.01,17895.77,222,0.0025,0.0044,80.61,87.4,0.006,Underperforming
+12,Orbit Travel — Brand Awareness (Prog) Q2,Orbit Travel,Programmatic,Brand Awareness,13707.46,12384.499999999998,157,0.0026,0.0043,78.88,90.3,0.006,Underperforming
+17,Solstice Sports — Retargeting (Prog) Q2,Solstice Sports,Programmatic,Retargeting,12387.41,11571.34,127,0.0029,0.0041,91.11,93.4,0.006,Underperforming
+29,BlueLine Finance — Retargeting (Prog) Q1,BlueLine Finance,Programmatic,Retargeting,9206.02,8581.5,103,0.0026,0.0039,83.32,93.2,0.006,Underperforming
+21,Pinnacle Tech — Retargeting (Prog) Q3,Pinnacle Tech,Programmatic,Retargeting,6342.6,5540.829999999999,58,0.003,0.0038,95.53,87.4,0.006,Underperforming
+47,Crestwood Media — Retargeting (Prog) Q2,Crestwood Media,Programmatic,Retargeting,8289.44,7541.390000000001,77,0.0028,0.0038,97.94,91.0,0.006,Underperforming
+43,Pinnacle Tech — Brand Awareness (Prog) Q4,Pinnacle Tech,Programmatic,Brand Awareness,5200.47,4706.629999999998,43,0.0024,0.0032,109.46,90.5,0.006,At Risk
+46,Solstice Sports — Brand Awareness (Prog) Q4,Solstice Sports,Programmatic,Brand Awareness,5721.65,5174.710000000002,41,0.0026,0.0027,126.21,90.4,0.006,At Risk

@@ -1,0 +1,11 @@
+client,total_campaigns,channels_used,total_spend,total_budget,total_conversions,avg_cpa,avg_ctr,budget_util_pct,client_tier
+Redwood Insurance,7,4,153445.03,157303.2,4087,40.9,0.0183,97.5,Tier 1 — Enterprise
+NovaSpark Retail,7,4,134350.62,143057.64,3154,50.81,0.0103,93.9,Tier 1 — Enterprise
+Verdant Foods,5,3,121091.23,122396.8,3218,36.07,0.0184,98.9,Tier 1 — Enterprise
+Crestwood Media,6,4,119301.75,122178.04,2731,50.59,0.012,97.6,Tier 1 — Enterprise
+Helix Health,7,4,105869.76,111981.19,2203,59.65,0.0081,94.5,Tier 1 — Enterprise
+BlueLine Finance,4,3,87439.96,93812.02,2229,59.51,0.0105,93.2,Tier 2 — Mid-Market
+Solstice Sports,7,3,85083.73,91342.46,1653,70.21,0.0091,93.1,Tier 2 — Mid-Market
+Orbit Travel,4,4,76322.96,80112.17,1703,57.86,0.0111,95.3,Tier 2 — Mid-Market
+Aurora Fashion,2,1,24324.7,23921.29,544,44.78,0.0095,101.7,Tier 3 — Growth
+Pinnacle Tech,3,2,23589.77,24879.21,420,82.27,0.005,94.8,Tier 3 — Growth

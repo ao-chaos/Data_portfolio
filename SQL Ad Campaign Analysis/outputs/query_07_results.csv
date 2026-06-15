@@ -1,0 +1,35 @@
+campaign_id,campaign_name,client,channel,objective,status,budget,total_spend,days_running,total_conversions,cvr,benchmark_cvr,cvr_vs_benchmark_pct,budget_consumed_pct,intervention_priority
+46,Solstice Sports — Brand Awareness (Prog) Q4,Solstice Sports,Programmatic,Brand Awareness,Active,5721.65,5174.71,68,41,0.0027,0.006,-55.0,90.4,🔴 Critical — CVR >50% below benchmark
+43,Pinnacle Tech — Brand Awareness (Prog) Q4,Pinnacle Tech,Programmatic,Brand Awareness,Active,5200.47,4706.63,67,43,0.0032,0.006,-46.7,90.5,🟠 High — CVR 25–50% below benchmark
+21,Pinnacle Tech — Retargeting (Prog) Q3,Pinnacle Tech,Programmatic,Retargeting,Completed,6342.6,5540.83,35,58,0.0038,0.006,-36.7,87.4,🟠 High — CVR 25–50% below benchmark
+47,Crestwood Media — Retargeting (Prog) Q2,Crestwood Media,Programmatic,Retargeting,Completed,8289.44,7541.39,45,77,0.0038,0.006,-36.7,91.0,🟠 High — CVR 25–50% below benchmark
+29,BlueLine Finance — Retargeting (Prog) Q1,BlueLine Finance,Programmatic,Retargeting,Completed,9206.02,8581.5,58,103,0.0039,0.006,-35.0,93.2,🟠 High — CVR 25–50% below benchmark
+25,Helix Health — Retargeting (Disp) Q4,Helix Health,Display,Retargeting,Completed,3984.73,4011.54,25,53,0.0053,0.008,-33.8,100.7,🟠 High — CVR 25–50% below benchmark
+17,Solstice Sports — Retargeting (Prog) Q2,Solstice Sports,Programmatic,Retargeting,Completed,12387.41,11571.34,32,127,0.0041,0.006,-31.7,93.4,🟠 High — CVR 25–50% below benchmark
+49,NovaSpark Retail — Brand Awareness (Disp) Q4,NovaSpark Retail,Display,Brand Awareness,Completed,10790.85,10804.22,27,140,0.0056,0.008,-30.0,100.1,🟠 High — CVR 25–50% below benchmark
+12,Orbit Travel — Brand Awareness (Prog) Q2,Orbit Travel,Programmatic,Brand Awareness,Completed,13707.46,12384.5,86,157,0.0043,0.006,-28.3,90.3,🟠 High — CVR 25–50% below benchmark
+48,Orbit Travel — Retargeting (Disp) Q2,Orbit Travel,Display,Retargeting,Completed,14418.73,14895.04,73,195,0.0058,0.008,-27.5,103.3,🟠 High — CVR 25–50% below benchmark
+19,Solstice Sports — App Install (Paid) Q3,Solstice Sports,Paid Social,App Install,Completed,6905.83,6857.05,91,137,0.0161,0.022,-26.8,99.3,🟠 High — CVR 25–50% below benchmark
+8,Solstice Sports — Retargeting (Prog) Q3,Solstice Sports,Programmatic,Retargeting,Completed,22594.49,20424.98,88,253,0.0044,0.006,-26.7,90.4,🟠 High — CVR 25–50% below benchmark
+33,Helix Health — Retargeting (Prog) Q3,Helix Health,Programmatic,Retargeting,Completed,20477.01,17895.77,39,222,0.0044,0.006,-26.7,87.4,🟠 High — CVR 25–50% below benchmark
+42,Crestwood Media — Conversions (Paid) Q1,Crestwood Media,Paid Social,Conversions,Completed,11531.03,11450.0,89,245,0.0167,0.022,-24.1,99.3,🟡 Medium — CVR 10–25% below benchmark
+38,NovaSpark Retail — Brand Awareness (Prog) Q4,NovaSpark Retail,Programmatic,Brand Awareness,Completed,17695.04,15963.72,16,223,0.0047,0.006,-21.7,90.2,🟡 Medium — CVR 10–25% below benchmark
+52,Redwood Insurance — Brand Awareness (Prog) Q1,Redwood Insurance,Programmatic,Brand Awareness,Completed,10286.95,9485.41,32,130,0.0047,0.006,-21.7,92.2,🟡 Medium — CVR 10–25% below benchmark
+16,Helix Health — Brand Awareness (Disp) Q4,Helix Health,Display,Brand Awareness,Completed,15664.81,15681.37,48,239,0.0063,0.008,-21.3,100.1,🟡 Medium — CVR 10–25% below benchmark
+32,Aurora Fashion — Retargeting (Paid) Q1,Aurora Fashion,Paid Social,Retargeting,Completed,11427.1,11440.87,88,251,0.0174,0.022,-20.9,100.1,🟡 Medium — CVR 10–25% below benchmark
+18,BlueLine Finance — Retargeting (Prog) Q1,BlueLine Finance,Programmatic,Retargeting,Completed,19871.43,18403.88,34,253,0.0048,0.006,-20.0,92.6,🟡 Medium — CVR 10–25% below benchmark
+37,Aurora Fashion — Retargeting (Paid) Q1,Aurora Fashion,Paid Social,Retargeting,Completed,12494.19,12883.83,71,293,0.0176,0.022,-20.0,103.1,🟡 Medium — CVR 10–25% below benchmark
+11,Helix Health — Retargeting (Disp) Q1,Helix Health,Display,Retargeting,Completed,14392.98,14010.57,36,215,0.0065,0.008,-18.8,97.3,🟡 Medium — CVR 10–25% below benchmark
+20,Redwood Insurance — App Install (Vide) Q1,Redwood Insurance,Video,App Install,Completed,53038.99,54342.33,29,1033,0.01,0.012,-16.7,102.5,🟡 Medium — CVR 10–25% below benchmark
+51,Crestwood Media — Retargeting (Paid) Q4,Crestwood Media,Paid Social,Retargeting,Completed,9732.4,10048.47,53,238,0.0185,0.022,-15.9,103.2,🟡 Medium — CVR 10–25% below benchmark
+2,Solstice Sports — Brand Awareness (Prog) Q1,Solstice Sports,Programmatic,Brand Awareness,Completed,12860.36,10923.48,26,138,0.0051,0.006,-15.0,84.9,🟡 Medium — CVR 10–25% below benchmark
+14,BlueLine Finance — App Install (Vide) Q4,BlueLine Finance,Video,App Install,Active,20549.14,20298.16,55,367,0.0102,0.012,-15.0,98.8,🟡 Medium — CVR 10–25% below benchmark
+5,Pinnacle Tech — App Install (Paid) Q2,Pinnacle Tech,Paid Social,App Install,Completed,13336.14,13342.31,58,319,0.019,0.022,-13.6,100.0,🟡 Medium — CVR 10–25% below benchmark
+36,Helix Health — Conversions (Paid) Q1,Helix Health,Paid Social,Conversions,Completed,21088.57,20932.61,69,522,0.0191,0.022,-13.2,99.3,🟡 Medium — CVR 10–25% below benchmark
+13,NovaSpark Retail — Retargeting (Paid) Q1,NovaSpark Retail,Paid Social,Retargeting,Completed,11871.44,11220.09,55,275,0.0192,0.022,-12.7,94.5,🟡 Medium — CVR 10–25% below benchmark
+28,Crestwood Media — Conversions (Paid) Q3,Crestwood Media,Paid Social,Conversions,Completed,16969.77,16710.28,71,410,0.0192,0.022,-12.7,98.5,🟡 Medium — CVR 10–25% below benchmark
+22,Crestwood Media — Brand Awareness (Vide) Q2,Crestwood Media,Video,Brand Awareness,Completed,58594.4,58084.01,79,1140,0.0105,0.012,-12.5,99.1,🟡 Medium — CVR 10–25% below benchmark
+41,Verdant Foods — App Install (Vide) Q4,Verdant Foods,Video,App Install,Active,44829.58,45769.28,77,876,0.0105,0.012,-12.5,102.1,🟡 Medium — CVR 10–25% below benchmark
+34,Verdant Foods — Lead Generation (Paid) Q3,Verdant Foods,Paid Search,Lead Generation,Completed,21109.01,19634.7,74,711,0.0398,0.045,-11.6,93.0,🟡 Medium — CVR 10–25% below benchmark
+27,Redwood Insurance — App Install (Paid) Q3,Redwood Insurance,Paid Social,App Install,Active,9953.81,9816.26,69,240,0.0195,0.022,-11.4,98.6,🟡 Medium — CVR 10–25% below benchmark
+9,NovaSpark Retail — Brand Awareness (Paid) Q2,NovaSpark Retail,Paid Social,Brand Awareness,Completed,24837.9,23394.24,25,559,0.0196,0.022,-10.9,94.2,🟡 Medium — CVR 10–25% below benchmark
