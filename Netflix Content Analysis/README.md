@@ -83,7 +83,7 @@ Netflix Content Analysis/
 
 ```bash
 git clone https://github.com/ao-chaos/Data_portfolio.git
-cd Data_portfolio/Netflix\ Content\ Analysis
+cd Data_portfolio/Netflix-Content-Analysis
 
 python -m venv venv
 source venv/bin/activate       # Windows: venv\Scripts\activate
