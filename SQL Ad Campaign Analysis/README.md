@@ -10,7 +10,7 @@
 
 A end-to-end SQL analysis of a digital advertising account spanning 52 campaigns, 5 channels, 10 clients, and 12 months of daily performance data (~£930k total spend).
 
-The project demonstrates practical SQL for real advertising analytics use cases — the kind of reporting an analyst would produce for account managers or senior stakeholders at a media agency.
+The project demonstrates practical SQL for real advertising analytics use cases 
 
 > **Dataset:** Synthetic data generated to reflect realistic advertising performance patterns across Paid Search, Paid Social, Display, Video, and Programmatic channels.
 
@@ -95,7 +95,7 @@ sqlite3
 
 ```bash
 git clone https://github.com/ao-chaos/Data_portfolio.git
-cd Data_portfolio/SQL\ Ad\ Campaign\ Analysis
+cd Data_portfolio/SQL Ad Campaign Analysis
 
 pip install pandas
 python run_queries.py
