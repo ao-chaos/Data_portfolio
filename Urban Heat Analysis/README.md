@@ -80,7 +80,7 @@ urban-heat-island-london/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/zarisyed/urban-heat-island-london.git
+git clone https://github.com/ao-chaos/Data_portfolio.git
 cd urban-heat-island-london
 ```
 
